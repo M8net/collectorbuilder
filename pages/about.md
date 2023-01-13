@@ -1,5 +1,5 @@
 ---
-title: About
+title: Informazioni
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -7,21 +7,23 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="http://www.medievalscript.com/wp-content/themes/neoclassical/headers/header_2.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Informazioni sulla Raccolta
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Questo sito è stato generato con [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), un progetto che crea semplici raccolte digitali con [GitHub Pages](https://pages.github.com/) a partire da: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- un CSV di metadati della raccolta
+- una cartella di immagini JPG images or documenti PDF
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Questa realizzazione è sperimentale e deve intendersi come dimostrazione accademica delle potenzialità dello strumento; sebbene la raccolta in essa contenutia sia stata realizzata con la massima cura, potrebbe contenere inesattezze, anacronismi, o altri errori dovuti ai molteplici esperimenti condotti con lo strumento.. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Per maggiori dettagli sul software di creazione di raccolte digitale, consiglio una visita al sito [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
+{% comment %}
+  { % include cb/about_the_about.md % } 
+{%- endcomment -%}
