@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: M8net Collection Builder 
+title: Fabbri Collection Builder 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Un software per la gestione di documenti
 # description appears in meta tags and other locations
@@ -61,7 +61,7 @@ metadata: live-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
