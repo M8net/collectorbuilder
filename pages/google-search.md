@@ -9,7 +9,7 @@ permalink: /search/google.html
 ## Google Site Search
 
 <div class="alert alert-primary" role="alert">
-  Please note: CSE is a free service provided by Google. Results depend on third party indexing and may contain ads.
+  Avvertenza: CSE è un servizio gratuito messo a disposizione da. I risultati dipendono dall'indicizzazione del fornitore e possono contenere pubblicità.
 </div>
 
 <script>
