@@ -1,5 +1,5 @@
 ---
-title: Locations
+title: Posizioni
 layout: cloud
 permalink: /locations.html
 # Default locations page is configured in "_data/theme.yml"
@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Usare questo insieme di parole per accedere alle posizioni.
+Le dimensioni delle parole sono determinate dalla freequenza di consultazione e tutte le parole hanno un link alla ricerca in raccolta corrispondente.
