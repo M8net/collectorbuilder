@@ -8,7 +8,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Accedi a Posizioni
 
 Usare questo insieme di parole per accedere alle posizioni.
-Le dimensioni delle parole sono determinate dalla freequenza di consultazione e tutte le parole hanno un link alla ricerca in raccolta corrispondente.
+Le dimensioni delle parole sono determinate dalla frequenza di consultazione e tutte le parole hanno un link alla ricerca in raccolta corrispondente.
