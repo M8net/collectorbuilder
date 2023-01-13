@@ -9,8 +9,6 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="http://www.medievalscript.com/wp-content/themes/neoclassical/headers/header_2.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## Informazioni sulla Raccolta
 
 Questo sito è stato generato con [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), un progetto che crea semplici raccolte digitali con [GitHub Pages](https://pages.github.com/) a partire da: 
