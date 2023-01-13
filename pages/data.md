@@ -6,7 +6,7 @@ permalink: /data.html
 # a table visualization will be added below the content in this file
 ---
 
-## Collection Metadata
+## Metadati in Raccolta
 
 La tabella sottostante mette a disposizione le funzionalità di base per la ricerca e l'ordinamento dei contenuti della raccolta. 
 Usare il bottone CSV o EXCEL qui sotto per scaricare nel formato preferito i metadati filtrati visualizzati in pagina. 
