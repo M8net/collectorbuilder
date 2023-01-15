@@ -11,4 +11,4 @@ cloud-fields: site.data.theme.subjects-fields
 ## Sfoglia Argomenti
 
 Usare questo insieme di parole per accedere termini e argomenti.
-Le dimensioni delle parole sono determinate dalla frequenza di consultazione e tutte le parole hanno un link alla ricerca in raccolta corrispondente.
+Le dimensioni delle parole sono determinate dalla frequenza di consultazione e tutte le parole hanno un link alla corrispondente ricerca in raccolta.
