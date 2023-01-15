@@ -7,8 +7,8 @@ subject,Argomenti,true
 location,Località
 latitude,Latitudine
 longitude,Longitudine
-source,Origine
-identifier,Identificatore origine,,
+source,Fonte
+identifier,Identificatore Fonte,,
 type,Tipo,
 format,Formato,
 rights,Diritti,
