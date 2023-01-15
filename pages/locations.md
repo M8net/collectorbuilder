@@ -1,5 +1,5 @@
 ---
-title: Posizioni
+title: Località
 layout: cloud
 permalink: /locations.html
 # Default locations page is configured in "_data/theme.yml"
@@ -8,7 +8,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Accedi a Posizioni
+## Accedi a Località
 
-Usare questo insieme di parole per accedere alle posizioni.
-Le dimensioni delle parole sono determinate dalla frequenza di consultazione e tutte le parole hanno un link alla ricerca in raccolta corrispondente.
+Usare questo insieme di parole per accedere alle Località.
+Le dimensioni delle parole sono determinate dalla frequenza di consultazione e tutte le parole hanno un link alla corrispondente ricerca in raccolta.
