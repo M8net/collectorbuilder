@@ -17,10 +17,10 @@ custom-foot: js/lunr-js.html
             <div class="modal-body">
                 <p>Queste opzioni di ricerca avanzate possono essere aggiunte alla query nel riquadro di ricerca per avere risultati più precisi:</p> 
                 <ul>
-                    <li>Ricerca per campo specifico: usare il nome del campo, virola, seguito dalla query, ad es.: <code>Titolo:odissea</code>, <code>data:1911</code>, <code>argomento:alberi</code>. In questa raccolta si può usare {{ fields | join: ", " }}.</li>
-                    <li>Caratteri jolly: aggiungere <code>*</code> per sostituire un carattere qualsiasi, ad es.: <code>odis*</code>, <code>*oo</code>. Utile per reperire parole di radica comune, ma con differenti terminazioni.</li>
+                    <li>Ricerca per campo specifico: usare il nome del campo, virgola, seguito dalla query, ad es.: <code>Titolo:odissea</code>, <code>data:1911</code>, <code>argomento:alberi</code>. In questa raccolta si può usare {{ fields | join: ", " }}.</li>
+                    <li>Caratteri jolly: aggiungere <code>*</code> per sostituire un carattere qualsiasi, ad es.: <code>odisse*</code>, <code>*dissea</code>. Utile per reperire parole di radice comune, ma con differenti terminazioni.</li>
                     <li>Corrispondenza labile: aggiungere <code>~</code> più un numero alla fine della query per impostare un livello di genericità più elevato nella ricerca, ad es.: <code>odis~1</code>. Utile per prevenire gli errori di trascrizione.</li>
-                    <li>Enfatizza termine: ggiungere <code>^</code> più un numero per incrementare la rilevanza di un termine nella query, ad es.: <code>odis^10</code>. In tal modo si riduce l'interferenza di risultati indesiderati quando uno dei termini ha una particolare importanza.</li>
+                    <li>Enfatizza termine: aggiungere <code>^</code> più un numero per incrementare la rilevanza di un termine nella query, ad es.: <code>odis^10</code>. In tal modo si riduce l'interferenza di risultati indesiderati quando uno dei termini ha una particolare importanza.</li>
                 </ul>
             </div>
         </div>
