@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Titolo,
 creator,Autore,
-date,Data creazione,
+date,Data Creazione,
 description,Descrizione,
 subject,Argomenti,true
-location,Posizione
+location,Località
 latitude,Latitudine
 longitude,Longitudine
 source,Origine
@@ -12,4 +12,4 @@ identifier,Identificatore origine,,
 type,Tipo,
 format,Formato,
 rights,Diritti,
-rightsstatement,Dichiarazione diritti,,true
+rightsstatement,Dichiarazione diritti,,tru
