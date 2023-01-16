@@ -16,7 +16,7 @@ Questo sito è stato generato con [CollectionBuilder-GH](https://collectionbuild
 - un CSV di metadati della raccolta
 - una cartella di immagini JPG images or documenti PDF
 
-Questa realizzazione è sperimentale e deve intendersi come dimostrazione accademica delle potenzialità dello strumento; sebbene la raccolta in essa contenutia sia stata realizzata con la massima cura, potrebbe contenere inesattezze, anacronismi, o altri errori dovuti ai molteplici esperimenti condotti con lo strumento.. 
+Questa realizzazione è sperimentale e deve intendersi come dimostrazione accademica delle potenzialità dello strumento; sebbene la raccolta in essa contenutia sia stata realizzata con la massima cura, potrebbe contenere inesattezze, anacronismi, o altri errori dovuti ai molteplici esperimenti condotti con lo strumento. 
 
 Per maggiori dettagli sul software di creazione di raccolte digitale, consiglio una visita al sito [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
